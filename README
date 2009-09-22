@@ -1,0 +1,15 @@
+Aplicação exemplo para utilização do framework Hibernate.
+
+Observações:
+
+1. A classe CreateTables faz as devidas atualizações no banco.
+2. Não esquecer de adicionar os JARs ao projeto
+
+
+Sugestões e dúvidas: necioveras@gmail.com
+
+Este foi motivado para concretização de utilização do Git e GitHub.
+
+Cordialmente,
+Nécio de Lima Veras.
+
